@@ -1,3 +1,5 @@
+//Write a Java program to print the area and perimeter of a rectangle
+
 import java.util.Scanner;
 
 public class exercise13 {
