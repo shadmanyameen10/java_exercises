@@ -22,7 +22,7 @@ public class exercise17 {
 
 		sum = num1 + num2;
 
-		System.out.println(Integer.toBinaryString(sum));
+		System.out.println("Sum of two binary numbers: " + Integer.toBinaryString(sum));
 
 		input.close();
 
