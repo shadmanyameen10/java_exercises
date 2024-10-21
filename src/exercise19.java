@@ -1,4 +1,4 @@
-// Write a Java program to convert an integer number to a binary number.
+// Write a Java program to convert an integer number to a binary number
 
 import java.util.Scanner;
 
