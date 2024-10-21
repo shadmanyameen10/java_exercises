@@ -13,7 +13,7 @@ public class exercise21 {
 		System.out.print("Input a decimal number: ");
 		dec = input.nextInt();
 		octal = Integer.toOctalString(dec);
-		System.out.println(octal);
+		System.out.println("Octal number is: " + octal);
 
 		input.close();
 
