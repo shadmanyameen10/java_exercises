@@ -1,3 +1,5 @@
+//Write a Java program to multiply two binary numbers.
+
 import java.util.Scanner;
 
 public class exercise18 {
@@ -20,7 +22,7 @@ public class exercise18 {
 
 		product = num1 * num2;
 
-		System.out.println("Product of two binary numbers:" + Integer.toBinaryString(product));
+		System.out.println("Product of two binary numbers: " + Integer.toBinaryString(product));
 
 		input.close();
 		
