@@ -17,7 +17,7 @@ public class exercise23 {
 		hexadecimal = Integer.parseInt(binary, 2);
 		binary = Integer.toString(hexadecimal, 16);
 
-		System.out.println("Decimal Number: " + binary.toUpperCase());
+		System.out.println("HexaDecimal value: " + binary.toUpperCase());
 
 		input.close();
 
