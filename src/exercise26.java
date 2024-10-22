@@ -17,7 +17,7 @@ public class exercise26 {
 		binary = Integer.parseInt(octal, 8);
 		octal = Integer.toString(binary, 2);
 
-		System.out.println("Binary Number: " + octal.toUpperCase());
+		System.out.println("Binary Number: " + octal);
 
 		input.close();
 
