@@ -1,1 +1,1 @@
-Bunch of random java exercises im doing from various coding websites to make my coding abilities stronger. 
+I'm doing a bunch of random java exercises from various websites to strengthen my coding abilities. 
