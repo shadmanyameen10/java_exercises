@@ -17,7 +17,7 @@ public class exercise27 {
 		hexa = Integer.parseInt(octal, 8);
 		octal = Integer.toString(hexa, 16);
 
-		System.out.println("Hexadecimal Number: " + octal.toUpperCase());
+		System.out.println("Hexadecimal Number: " + octal);
 
 		input.close();
 
